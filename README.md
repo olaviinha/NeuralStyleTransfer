@@ -8,4 +8,4 @@ It styles each content image in a directory with each style image in another dir
 See [the original repository](https://github.com/titu1994/Neural-Style-Transfer) for details.
 
 ## Run in Google Colaboratory
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#colablink)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralStyleTransfer-colab/blob/master/NeuralStyleTransfer.ipynb)
