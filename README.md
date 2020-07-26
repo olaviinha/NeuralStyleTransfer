@@ -1,7 +1,7 @@
-# Neural Style Transfer Batch Processing in Colab
+# Neural Style Transfer Batch Processor for Colab
 
-This is a Notebook for [Neural Style Transfer & Neural Doodles](https://github.com/titu1994/Neural-Style-Transfer) batch 
-processing to be run in Google Colaboratory, using Google Drive as data storage. 
+This is a batch processor for [Neural Style Transfer & Neural Doodles](https://github.com/titu1994/Neural-Style-Transfer) 
+to be run in Google Colaboratory, using Google Drive as data storage. 
 
 It styles each content image in a directory with each style image in another directory consicutively.
 
