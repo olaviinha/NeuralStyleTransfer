@@ -3,7 +3,7 @@
 This is a batch processor for [Neural Style Transfer & Neural Doodles](https://github.com/titu1994/Neural-Style-Transfer) 
 to be run in Google Colaboratory, using Google Drive as data storage. 
 
-It styles each content image in a directory with each style image in another directory consicutively.
+It styles each content image in a directory with each style image in another directory consicutively, and saves final images in a third directory.
 
 See [the original repository](https://github.com/titu1994/Neural-Style-Transfer) for details.
 
