@@ -1,11 +1,8 @@
-# Neural Style Transfer Batch Processor (colab)
+# Neural Style Transfer (Colabs)
 
-This is a batch processor for [Neural Style Transfer & Neural Doodles](https://github.com/titu1994/Neural-Style-Transfer) 
-to be run in Google Colaboratory, using Google Drive as data source and storage. 
+**Colab for:** [Neural Style Transfer & Neural Doodles](https://github.com/titu1994/Neural-Style-Transfer) <br>
+**Paper:** A Neural Algorithm of Artistic Style https://arxiv.org/abs/1508.06576
 
-It styles each content image in a directory with each style image in another directory consecutively, and saves final images in a third directory, all directories located in your Google Drive.
+This noteook is a **batch processor**: instead of individual images, it takes **directories** of content images and style images, and styles each content image with each style image in the directories, saving output images to output directory.
 
-See [Neural Style Transfer & Neural Doodles](https://github.com/titu1994/Neural-Style-Transfer) for details.
-
-## Run in Google Colaboratory
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralStyleTransfer/blob/master/NeuralStyleTransfer.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/olaviinha/NeuralStyleTransfer/blob/master/NeuralStyleTransfer_titu1994.ipynb)
