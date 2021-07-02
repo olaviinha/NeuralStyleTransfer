@@ -1,6 +1,6 @@
 # Neural Style Transfer (Colabs)
 
-Colab notebooks for Neural Style Transfer. Both notebooks are fully functional in Google Colab as of Jun 2021. The notebook for _style-transfer-pytorch_ is capable of producing larger images, as well as running **considerably faster** than the notebook for _Neural Style Transfer & Neural Doodles_. The notebooks produce quite different results though, so if you're not in a hurry, you may want to take both for a spin.
+User-friendly Colab notebooks for Neural Style Transfer. Both notebooks are fully functional in Google Colab as of Jun 2021. The notebook for _style-transfer-pytorch_ is capable of producing larger images, as well as running **considerably faster** than the notebook for _Neural Style Transfer & Neural Doodles_. The notebooks produce quite different results though, so if you're not in a hurry, you may want to take both for a spin.
 
 ---
 
